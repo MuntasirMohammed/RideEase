@@ -41,4 +41,7 @@ Application Architecture: <br/>
 <br> Map <br/>
 <img src="https://imgur.com/4DrcmJV.png" height="70%" width="70%" alt="map"/>
 <br> Ride Updates <br/>
-<img src="https://imgur.com/ugYDnW0.png" height="50%" width="40%" alt="ride progress"/>
+<img src="https://imgur.com/ugYDnW0.png" height="40%" width="35%" alt="ride progress"/>
+<br> Ride details updated in Dynamo DB <br/>
+<img src="https://imgur.com/1NXjkFY.png" height="68%" width='68%' alt="table"/>
+
