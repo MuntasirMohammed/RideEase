@@ -9,3 +9,36 @@ RideEase is a serverless ride-sharing application built to demonstrate proficien
 
 <h2>Live Application</h2>
 🔗 <a href="https://rideease.engmuntasir.com/" target="_blank">Check out the Live version here!</a>
+
+<h2>Features</h2>
+
+- <b>User Authentication:</b> Integrated using AWS Cognito for secure access.
+- <b>CI/CD Pipeline:</b> Set up via GitHub for automated builds and deployment.
+- <b>Live Hosting:</b> Deployed on AWS Amplify, accessible through a public URL.
+- <b>Database Management:</b> DynamoDB used for efficient data storage and retrieval.
+- <b>Backend Logic:</b> Lambda functions to handle serverless backend processing.
+- <b>API Management:</b> API Gateway for secure and scalable API endpoint management.
+
+<h2>AWS Services Used</h2>
+
+- <b>GitHub:</b> Version control and CI/CD integration.
+- <b>Amplify:</b> Hosting and deployment of the React app.
+- <b>Cognito:</b> User authentication and management.
+- <b>DynamoDB:</b> Data storage solution.
+- <b>Lambda:</b> Serverless functions for backend logic.
+- <b>API Gateway:</b> Managing and securing API endpoints.
+- <b>IAM:</b> Managing access permissions.
+
+<h2>Application Walk-Through :</h2>
+<p align="center">
+Application Architecture: <br/>
+<img src="https://imgur.com/03pENQz.png" height="60%" width="60%" alt="Application Architecture"/>
+<br />
+<p align="center">
+<br> Register New Account <br/>
+<img src="https://imgur.com/cDY7R8O.png" height="70%" width="70%" alt="Create New Account"/>
+<br />
+<br> Map <br/>
+<img src="https://imgur.com/4DrcmJV.png" height="70%" width="70%" alt="map"/>
+<br> Ride Updates <br/>
+<img src="https://imgur.com/ugYDnW0.png" height="50%" width="40%" alt="ride progress"/>
